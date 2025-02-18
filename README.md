@@ -21,7 +21,7 @@ Welcome to the MERN E-Commerce Application! This project is a simple e-commerce 
 
 ## Installation
 
-1. Clone the repository:
+1.Clone the repository:
 
 git clone https://github.com/your-username/mern-ecom.git
 
